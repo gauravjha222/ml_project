@@ -6,12 +6,12 @@ Project Description:
 
 Big Mart Sale Prediction is a data-driven retail sales forecasting project aimed at helping retail businesses predict sales trends. By leveraging machine learning models and visualizations, the project assists businesses in making informed decisions about inventory management, marketing strategies, and overall business planning.
 
-** Tech Stack
+# Tech Stack
 Frontend: HTML, CSS
 
 Backend: Flask
 
-** Libraries:
+# Libraries:
 
 Numpy: For numerical computing
 
@@ -27,16 +27,25 @@ Other Tools:
 
 Live Vehicle Monitoring: (Description if relevant)
 
-** Features
+# Features
 Predictive sales forecasting based on historical data
 
 Interactive data visualization of sales trends
 
 Web-based application for easy access and use
 
-** Prerequisites
+# Prerequisites
 Make sure you have the following installed before running the project:
 
 Python 3.x
 
 pip (Python package installer)
+
+
+# How to Run the Project
+Make sure all dependencies are installed.
+
+Start the Flask application:
+
+python app.py
+
