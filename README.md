@@ -1,5 +1,9 @@
-Big Mart Sale Prediction
+## Big Mart Sale Prediction
+
+
 Project Description:
+
+
 Big Mart Sale Prediction is a data-driven retail sales forecasting project aimed at helping retail businesses predict sales trends. By leveraging machine learning models and visualizations, the project assists businesses in making informed decisions about inventory management, marketing strategies, and overall business planning.
 
 ** Tech Stack
